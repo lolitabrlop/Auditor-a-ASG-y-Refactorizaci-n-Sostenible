@@ -9,3 +9,8 @@ Nuestra elección ha sido la empresa sevillana Bernardo Herrera S.L. Esto se deb
 
 La primera tarea que llevamos a cabo fue la medición de la huella de carbono de la página. Para ello, entramos en la página Website Carbon Calculator para hacer la medición. Tras introducir la URL, nos devolvió lo siguiente: <img width="796" height="401" alt="image" src="https://github.com/user-attachments/assets/b657751c-c04a-4e63-9673-d5bde03ec72f" />
 
+
+
+<img width="533" height="169" alt="image" src="https://github.com/user-attachments/assets/ef13b402-f519-48c2-b547-b1d77fe4784f" />
+
+
