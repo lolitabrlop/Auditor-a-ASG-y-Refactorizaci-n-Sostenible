@@ -15,4 +15,4 @@ Para móvil, las mediciones son diferentes. El rendimiento es algo mejor, pero e
 
 <img width="533" height="169" alt="image" src="https://github.com/user-attachments/assets/ef13b402-f519-48c2-b547-b1d77fe4784f" />
 
-
+La página web sufre de inflación de software pero no a gran escala, sino en la parte en la que hay una fatiga de códigos como se ha hecho referencia anteriormente debido al desuso del javascript incorporado junto al css. Como no es una página de pago, no la sufre a gran escala. 
