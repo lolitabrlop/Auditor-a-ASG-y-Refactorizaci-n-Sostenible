@@ -8,6 +8,7 @@ Nuestra elección ha sido la empresa sevillana Bernardo Herrera S.L. Esto se deb
 ## Fase 1: Inventario y Dimensión Ambiental (A)
 
 La primera tarea que llevamos a cabo fue la medición de la huella de carbono de la página. Para ello, entramos en la página Website Carbon Calculator para hacer la medición. Tras introducir la URL, nos devolvió lo siguiente: <img width="796" height="401" alt="image" src="https://github.com/user-attachments/assets/b657751c-c04a-4e63-9673-d5bde03ec72f" />
+Con esto, concluimos que aunque la página web no sea muy "sucia", existen varios apartados en los que puede mejorar considerablemente. 
 
 
 
