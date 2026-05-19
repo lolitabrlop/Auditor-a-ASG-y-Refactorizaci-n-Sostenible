@@ -20,3 +20,9 @@ La página web sufre de inflación de software pero no a gran escala, sino en la
 ## Fase 3: Dimensión de Gobernanza y ética
 En la web trabajada hay lo que se conoce como cookies técnicas, se refiere a cuando una página web no tiene sección de cookies que el usuario o cliente debe de aceptar para navegar. Esto es posible debido a que estas cookies técnicas hace referencia a que en dicha web no hace falta llevar un rastreo del comportamiento. 
 Sacar algo en positivo es que no se pide datos innecesarios al usuario, se limita a preguntar su nombre completo y su motivo de contacto.
+
+## Fase 4: Propuesta de Refactorización
+Para una mejor carga y rapidez de imagen, se sustituirá el JPG por AVIF. Esto provocará una mejor calidad de imagen pesando la mitad. 
+Se implementaría Lazt Loading pese a que la web no posee muchas imagenes. Así se optimizaría el rendimiento lo máximo posible.  Esta técnica consiste en retrasar la carga de elementos no críticos, como imágenes o videos. En el caso de nuestra web, se retrasará la carga de imágenes que no se estén mostrando o de otras secciones de la web. 
+
+Hay que eliminar los javascript de la página, son innecesarios. Se ve que la web es simple y no usa esas calamidades de código lo que provoca una ralentización del mismo y como consecuencia de la página.
